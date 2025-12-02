@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="scala-3.3.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/aoc-scala/target/scala-3.3.7/aoc2025_3-0.1.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/aoc-scala/target/scala-3.3.7/aoc-scala_3-0.1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

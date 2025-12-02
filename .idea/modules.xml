@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/2025-advent-of-code.iml" filepath="$PROJECT_DIR$/.idea/2025-advent-of-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aoc-rust/aoc-rust.iml" filepath="$PROJECT_DIR$/aoc-rust/aoc-rust.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aoc-scala/.idea/modules/aoc-scala/root.iml" filepath="$PROJECT_DIR$/aoc-scala/.idea/modules/aoc-scala/root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aoc-scala/.idea/modules/aoc-scala/root.main.iml" filepath="$PROJECT_DIR$/aoc-scala/.idea/modules/aoc-scala/root.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aoc-scala/.idea/modules/aoc-scala/root.root-build.iml" filepath="$PROJECT_DIR$/aoc-scala/.idea/modules/aoc-scala/root.root-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aoc-scala/.idea/modules/aoc-scala/root.test.iml" filepath="$PROJECT_DIR$/aoc-scala/.idea/modules/aoc-scala/root.test.iml" />
     </modules>
   </component>
 </project>
