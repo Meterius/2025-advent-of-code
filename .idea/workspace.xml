@@ -11,49 +11,10 @@
     </cargoProject>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bd2a847-0011-49b0-98d7-94707198e3d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/aoc2025_3_0_1_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/aoc_scala_3_0_1_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/inc_compile_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_lihaoyi_geny_3_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_lihaoyi_os_lib_3_0_11_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_lihaoyi_ujson_3_4_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_lihaoyi_upack_3_4_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_lihaoyi_upickle_3_4_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_lihaoyi_upickle_core_3_4_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_lihaoyi_upickle_implicits_3_4_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_softwaremill_sttp_client4_core_3_4_0_0_RC1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_softwaremill_sttp_client4_json_common_3_4_0_0_RC1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_softwaremill_sttp_client4_upickle_3_4_0_0_RC1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_softwaremill_sttp_model_core_3_1_7_11_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_softwaremill_sttp_shared_core_3_1_4_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_softwaremill_sttp_shared_ws_3_1_4_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala3_library_3_3_3_7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_16_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_toolkit_3_0_7_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__scala_sdk_3_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/scala3_library_3_3_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/scala3_library_3_3_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/scala_3_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/scala_library_2_13_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/scala_library_2_13_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aoc-rust/aoc-rust.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aoc-scala/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aoc-scala/build.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aoc-scala/project/build.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aoc-scala/project/plugins.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aoc-scala/src/main/resources/day_1_data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aoc-scala/src/main/scala/org/jlh/aoc2025/day_1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aoc-scala/src/main/scala/org/jlh/aoc2025/main.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/2025-advent-of-code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2025-advent-of-code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aoc-rust/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/aoc-rust/src/main.rs" afterDir="false" />
+    <list default="true" id="6bd2a847-0011-49b0-98d7-94707198e3d4" name="Changes" comment="Add scala">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aoc-scala/src/main/scala/org/jlh/aoc2025/day_1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/aoc-scala/src/main/scala/org/jlh/aoc2025/day_1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aoc-scala/src/main/scala/org/jlh/aoc2025/main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/aoc-scala/src/main/scala/org/jlh/aoc2025/main.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,11 +188,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1764685403445</updated>
-      <workItem from="1764685405159" duration="682000" />
+      <workItem from="1764685405159" duration="1916000" />
     </task>
+    <task id="LOCAL-00001" summary="Add scala">
+      <option name="closed" value="true" />
+      <created>1764686114904</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764686114904</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add scala" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add scala" />
   </component>
 </project>
